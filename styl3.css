@@ -1,0 +1,52 @@
+body{
+    font-family: Verdana;
+    margin: auto;
+}
+#Lewo{
+    background-color: #29434E;
+    color: white;
+    text-align: center;
+    width: 70%;
+    height: 70px;
+}
+#Prawo{
+    background-color: #29434E;
+    color: white;
+    width: 30%;
+    height: 70px;
+}
+#Stopka{
+    background-color: #29434E;
+    color: white;
+}
+h3{
+    background-color: #546e7a;
+    color: white;
+    margin: 0px;
+}
+h4{
+    text-align: center;
+    margin: 0px;
+}
+#Polecamy {
+    background-color: #B0BEC5;
+    width: 100%;
+    height: 320px;
+    overflow: scroll;
+}
+#Filmyfantastyczne{
+    background-color: #B0BEC5;
+    width: 100%;
+    height: 320px;
+    overflow: scroll;
+}
+header{
+    display: flex;
+    flex-direction: row;
+}
+#script{
+    float: left;
+    padding: 5px;
+    width: 226px;
+    height: 280px;
+}
